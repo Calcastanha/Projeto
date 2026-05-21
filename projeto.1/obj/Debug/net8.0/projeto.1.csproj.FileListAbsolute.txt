@@ -1,0 +1,15 @@
+C:\Users\11545.115\Documents\Project\projeto.1\bin\Debug\net8.0\projeto.1.exe
+C:\Users\11545.115\Documents\Project\projeto.1\bin\Debug\net8.0\projeto.1.deps.json
+C:\Users\11545.115\Documents\Project\projeto.1\bin\Debug\net8.0\projeto.1.runtimeconfig.json
+C:\Users\11545.115\Documents\Project\projeto.1\bin\Debug\net8.0\projeto.1.dll
+C:\Users\11545.115\Documents\Project\projeto.1\bin\Debug\net8.0\projeto.1.pdb
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.AssemblyInfoInputs.cache
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.AssemblyInfo.cs
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.csproj.CoreCompileInputs.cache
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.sourcelink.json
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.dll
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\refint\projeto.1.dll
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.pdb
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\projeto.1.genruntimeconfig.cache
+C:\Users\11545.115\Documents\Project\projeto.1\obj\Debug\net8.0\ref\projeto.1.dll
